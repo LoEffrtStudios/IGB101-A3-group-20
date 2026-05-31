@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Models and Prefabs/Walls and Floors/Demo Scenes/Demo Dungeons.unity
     guid: 5d16060afb9b6a64e86da0304e3a615d
+  - enabled: 1
+    path: Assets/Scenes/IGB101 A3 Blake.unity
+    guid: e80396057ce89cb4ead8ed8474a02bc8
+  - enabled: 1
+    path: Assets/Scenes/IGB101 A3 Karly.unity
+    guid: 85c894af21c24e04eb87caceb714c174
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
   m_UseUCBPForAssetBundles: 0
